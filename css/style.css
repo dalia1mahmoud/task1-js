@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    
+}
+body{
+    background-color: rgb(223, 48, 48);
+
+    background-image: url(../images/istockphoto-811314000-612x612.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list1{
+    list-style: none;
+}
+
+.list1 li {
+ 
+   display: inline-block;
+    margin-left:50PX;
+    font-size: 20px;
+   padding: auto;
+   margin-top: 100px;
+   
+}
+#total{
+    font-size:25px;
+    color:blue;
+    text-align: center;
+
+}
+#content{
+    font-size:22px;
+    color:blue;
+    text-align: center;
+}
+.card-img-top{
+    height: 350px;
+}
